@@ -1,0 +1,8 @@
+#+title: Apache Flink Sandbox
+
+Sandbox repository for playing around with [[https://flink.apache.org/][Apache Flink]]
+
+Flink provides a framework for doing Stateful Computations over a Data Streams.
+
+Flink is result of research by team at http://stratosphere.eu/, several publications are available
+at http://stratosphere.eu/project/publications/
